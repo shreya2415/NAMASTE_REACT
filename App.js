@@ -20,3 +20,5 @@ const parent = React.createElement("div", {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent); 
+
+//git config --global user.email "you@example.com"
