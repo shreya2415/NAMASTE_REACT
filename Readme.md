@@ -20,5 +20,5 @@
 - Differential Bundling - Support Older Browser
 
 # Parcel Commands
-- To run in dev server: npx parcel index.hmtml
+- To run in dev server: npx parcel index.html
 - To make prod build : npx parcel build index.html
