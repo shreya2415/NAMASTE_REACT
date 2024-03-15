@@ -18,3 +18,7 @@
 - Consistent Hashing
 - Code Splitting
 - Differential Bundling - Support Older Browser
+
+# Parcel Commands
+- To run in dev server: npx parcel index.hmtml
+- To make prod build : npx parcel build index.html
