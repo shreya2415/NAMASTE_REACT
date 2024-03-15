@@ -1,9 +1,7 @@
-
 {
   "name": "namaste_react",
   "version": "1.0.0",
   "description": "This is Namaste React By Akshay Siani",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,7 +16,14 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shreya2415/NAMASTE_REACT/issues"
-
   },
-  "homepage": "https://github.com/shreya2415/NAMASTE_REACT#readme"
+  "homepage": "https://github.com/shreya2415/NAMASTE_REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
