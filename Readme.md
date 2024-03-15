@@ -23,3 +23,15 @@
 # Parcel Commands
 - To run in dev server: npx parcel index.html
 - To make prod build : npx parcel build index.html
+- To stop the local server : ctrl + c
+
+* When we added commands in scripts in package.json
+
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+  }
+
+- To run in dev server: npm run start / npm start
+- To make a prod build: npm run build
